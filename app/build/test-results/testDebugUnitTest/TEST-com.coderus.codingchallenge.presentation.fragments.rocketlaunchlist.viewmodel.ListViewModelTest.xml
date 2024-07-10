@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.coderus.codingchallenge.presentation.fragments.rocketlaunchlist.viewmodel.ListViewModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-10T19:13:11" hostname="Mezuts-MBP.broadband" time="2.348">
+  <properties/>
+  <testcase name="Test loading state is shown before the content" classname="com.coderus.codingchallenge.presentation.fragments.rocketlaunchlist.viewmodel.ListViewModelTest" time="2.348"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
